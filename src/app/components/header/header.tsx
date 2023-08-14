@@ -10,11 +10,12 @@ export function Header(){
             <h2>Desenvolvedor Web &#128187;</h2>
           </div>
           <Image
+            alt="Samuel"
             src="/me-image.jpeg"
             width={325}
             height={310}
             priority
-          />
+          ></Image>
         </div>
     )
 }
